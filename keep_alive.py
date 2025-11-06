@@ -3,7 +3,7 @@ from threading import Thread
 import requests
 import os
 
-import main  # main.py dagi bot ishga tushadi
+
 
 app = Flask(__name__)
 
